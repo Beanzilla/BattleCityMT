@@ -2,27 +2,23 @@
 
 ## Battleship (Assault)
 
-Health: 45 (Size 5)
+Health: 4 (Size 4)
 
-Shots per turn: 1-2 (45% chance to get 2 shots)
-
-Ability: Heavy Artillery (Cooldown 5 turns)
+Shots per turn: 1-3 (45% chance to get 2 shots, 15% chance to get 3 shots)
 
 Battleships are notorious for being quite destructive, even if damaged it can wreak havoc.
 
 ## Destroyer (Assault)
 
-Health: 34 (Size 4)
+Health: 3 (Size 3)
 
-Shots per turn: 1 (Deals bonus damage against Submarines)
+Shots per turn: 1-2 (30% chance to get 2 shots)
 
-Ability: Missile Swarm (Cooldown 6 turns, Limited to 8 times per game)
-
-Destroyers typically hunt Submarines, but can be a force to be dealt with either way.
+Destroyers are dubbed "Baby Battleships", same destructiveness but smaller.
 
 ## Aircraft Carrier (Support/Scout)
 
-Health: 50 (Size 5)
+Health: 4 (Size 4)
 
 Shots per turn: 1-2 (15% chance to get 2 shots)
 
@@ -32,11 +28,11 @@ While many think it's more durable than Battleships it isn't as destructive, mai
 
 ## Submarine (Scout/Assault)
 
-Health: 20 (Size 2)
+Health: 2 (Size 2)
 
-Shots per turn: 1-3 (35% chance to get 2 shots, 5% chance to get 3 shots)
+Shots per turn: 1-2 (40% chance to get 2 shots)
 
-Ability: Relocate (Cooldown 6 turns, Limited to 4 times per game)
+Ability: Relocate (Cooldown 6 turns, Limited to 3 times per game)
 
 Ability 2: Radar Ping (Cooldown 8 turns)
 
@@ -44,16 +40,12 @@ Passive: Has a chance to not be revealed on hostile reveals. (Radar Planes gets 
 
 The phrase "Run silent, Run deep" never can be so deadly. While Subs are less durable than any other ship it remains the most deadly.
 
-## PT Boat (Assault/Support)
+## PT Boat (Assault)
 
-Health: 26 (Size 2)
+Health: 2 (Size 2)
 
-Shots per turn: 2-4 (45% chance to get 3 shots, 5% chance to get 4 shots)
+Shots per turn: 1-2 (25% chance to get 2 shots)
 
-Ability: Torpeado Strike (Cooldown 8 turns, Limited to 6 times per game)
+Abillity: Torpedo Strike (Cooldown 8 turns, Limited to 2 times per game)
 
-Ability 2: Team Repair (Cooldown 6 turns)
-
-This small boat holds some of the most deadly arsenals. A Machine gun in the front and upto 6 torpeados makes it a fierce ship to deal with.
-
-> The PT Boat can repair it's team, making it a cross of support and assault.
+This small boat holds some of the most deadly arsenals. A Machine gun in the front and torpeados makes it a fierce ship to deal with.
