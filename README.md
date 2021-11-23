@@ -1,2 +1,3 @@
-# powerThePlanetMT
-A power is money tycoon for Minetest.
+# BattleshipMT
+
+The good old traditional board game of Battleship, but with Minetest.
