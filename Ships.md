@@ -26,7 +26,7 @@ Health: 50 (Size 5)
 
 Shots per turn: 1-2 (15% chance to get 2 shots)
 
-Ability: Radar Planes (Reveals a 3x3 grid randomly on the hosile board, Cooldown 12 turns)
+Ability: Radar Planes (Cooldown 12 turns)
 
 While many think it's more durable than Battleships it isn't as destructive, mainly used to scout out enemy positions.
 
@@ -38,7 +38,7 @@ Shots per turn: 1-3 (35% chance to get 2 shots, 5% chance to get 3 shots)
 
 Ability: Relocate (Cooldown 6 turns, Limited to 4 times per game)
 
-Ability 2: Radar Ping (Reveals a 2x2 grid randomly on the hostile board, Cooldown 8 turns)
+Ability 2: Radar Ping (Cooldown 8 turns)
 
 Passive: Has a chance to not be revealed on hostile reveals. (Radar Planes gets a 25% chance to fail to detect the Sub, Radar Ping gets a 20% chance to fail to detect the Sub)
 
@@ -52,8 +52,8 @@ Shots per turn: 2-4 (45% chance to get 3 shots, 5% chance to get 4 shots)
 
 Ability: Torpeado Strike (Cooldown 8 turns, Limited to 6 times per game)
 
-Ability 2: Team Repair (Repairs all active ships on your team by 2% of max health, Cooldown 6 turns)
+Ability 2: Team Repair (Cooldown 6 turns)
 
 This small boat holds some of the most deadly arsenals. A Machine gun in the front and upto 6 torpeados makes it a fierce ship to deal with.
 
-> The PT Boat can repair it's team, making it a cross of scout and assault.
+> The PT Boat can repair it's team, making it a cross of support and assault.
