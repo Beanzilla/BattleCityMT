@@ -1,27 +1,5 @@
 # BattleshipMT > Abilities
 
-## Heavy Assault (Battleship)
-
-A Battleship fires an impressive 5 shots in a plus like pattern:
-
-```
- _ # _
- # # #
- _ # _
- 
- _ = Not being hit
- # = Being hit
-```
-As an addition, the Battleship's next turn deals 1 bonus point of damage (Only counts it's first shot)
-
-## Missile Swarm (Destroyer)
-
-A Destroyer launches 1 deadly missile at any area on the hostile board.
-
-If it hits a ship it deals up to 10 points of damage.
-
-> This consumes a missile, which is a limited supply.
-
 ## Radar Planes (Aircraft Carrier)
 
 The Aircraft Carrier launches 2 Radar Planes to invesigate an area.
@@ -61,12 +39,6 @@ Reveals a 2 by 2 pattern:
 
 The PT Boat fires off a torpeado at an enemy position (down the row).
 
-If it hits any enemy ship along the row that ship takes 10 points of damage.
+It hits any ship excluding damaged sections of a ship.
 
 > This ability consumes a torpeado, which is a limited supply.
-
-## Team Repair (PT Boat)
-
-The PT Boat transports parts to and fro to ships in it's fleet, these parts allow crews to conduct repairs.
-
-All teammates get 2% of their max health restored. (The PT Boat gets 1% of it's max health restored)
