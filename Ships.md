@@ -1,59 +1,49 @@
 # BattleshipMT > Ship Specs
 
-## Battleship (Assault)
+Semi-Traditional,
 
-Health: 45 (Size 5)
+Each player gets only 1 shot per turn, regardless of number of ships not sunk.
 
-Shots per turn: 1-2 (45% chance to get 2 shots)
+## Battleship
 
-Ability: Heavy Artillery (Cooldown 5 turns)
+Size: 5
 
-Battleships are notorious for being quite destructive, even if damaged it can wreak havoc.
+The traditional sized Battleship, in some variations it can use a "Heavy Artillery" ability and select a X pattern of 5 grid positions.
 
-## Destroyer (Assault)
+> Keeping v1.0 simple, we will only implement the 1 shot per turn.
 
-Health: 34 (Size 4)
+## Destroyer
 
-Shots per turn: 1 (Deals bonus damage against Submarines)
+Size: 3
 
-Ability: Missile Swarm (Cooldown 6 turns, Limited to 8 times per game)
+The traditional sized Destroyer, in some variations it can get an extra shot.
 
-Destroyers typically hunt Submarines, but can be a force to be dealt with either way.
+## Aircraft Carrier
 
-## Aircraft Carrier (Support/Scout)
+Size: 5
 
-Health: 50 (Size 5)
+The Carrier in this game has been shrunk by 1 (Traditionally 6), in some variations it can "scan" or "search" a small section of the enemies grid.
+(Thus revealing the enemy ship positions in that small section)
 
-Shots per turn: 1-2 (15% chance to get 2 shots)
+> Keeping v1.0 simple, this won't be implemented till a later version.
 
-Ability: Radar Planes (Cooldown 12 turns)
+## Submarine
 
-While many think it's more durable than Battleships it isn't as destructive, mainly used to scout out enemy positions.
+Size: 3
 
-## Submarine (Scout/Assault)
+The traditional sized Submarine, in some variations it can fire a shot which moves up an entire row hiting only 1 ship but moves upward if it,
+missed. (Thus if any ship is in that row it will hit it)
 
-Health: 20 (Size 2)
+> Keeping v1.0 simple, this won't be implemented till a later version.
 
-Shots per turn: 1-3 (35% chance to get 2 shots, 5% chance to get 3 shots)
+Also in some variations the submarine can also relocate or move to a different position. (That is it can move completely to a new position or simply rotate)
 
-Ability: Relocate (Cooldown 6 turns, Limited to 4 times per game)
+> Obviously because of such power it normally is limited to say 1 movement per game, keeping v1.0 simple, this won't be implemented till a later version if voted on.
+> (See Issue [#1 [Feature] Should we implemenet the Submarines ability to relocate/move?](https://github.com/Beanzilla/BattleshipMT/issues/1))
 
-Ability 2: Radar Ping (Cooldown 8 turns)
+## PT Boat
 
-Passive: Has a chance to not be revealed on hostile reveals. (Radar Planes gets a 25% chance to fail to detect the Sub, Radar Ping gets a 20% chance to fail to detect the Sub)
+Size: 2
 
-The phrase "Run silent, Run deep" never can be so deadly. While Subs are less durable than any other ship it remains the most deadly.
-
-## PT Boat (Assault/Support)
-
-Health: 26 (Size 2)
-
-Shots per turn: 2-4 (45% chance to get 3 shots, 5% chance to get 4 shots)
-
-Ability: Torpeado Strike (Cooldown 8 turns, Limited to 6 times per game)
-
-Ability 2: Team Repair (Cooldown 6 turns)
-
-This small boat holds some of the most deadly arsenals. A Machine gun in the front and upto 6 torpeados makes it a fierce ship to deal with.
-
-> The PT Boat can repair it's team, making it a cross of support and assault.
+The PT Boat or Patrol Boat in this game has been expanded by 1 (Traditionally 1), due to it's traditionally very small size it normally is the hardest
+ship to destroy.
